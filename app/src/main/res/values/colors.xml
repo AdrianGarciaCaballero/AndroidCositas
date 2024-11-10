@@ -1,32 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Base brand colors -->
+    <color name="pink_primary">#FF007A</color>
+    <color name="pink_dark">#C30052</color>
+    <color name="pink_light">#FF4081</color>
+    <color name="dark_background">#121212</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
 
-    <!-- Primary Colors -->
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryVariant">#3700B3</color>
-    <color name="colorOnPrimary">#FFFFFF</color>
-
-    <!-- Secondary Colors -->
-    <color name="colorSecondary">#03DAC5</color>
-    <color name="colorSecondaryVariant">#018786</color>
-    <color name="colorOnSecondary">#000000</color>
-
-    <!-- Background Colors -->
-    <color name="colorBackground">#FFFFFF</color>
-    <color name="colorOnBackground">#000000</color>
-
-    <!-- Surface Colors -->
-    <color name="colorSurface">#FFFFFF</color>
-    <color name="colorOnSurface">#000000</color>
-
-    <!-- Error Colors -->
-    <color name="colorError">#B00020</color>
-    <color name="colorOnError">#FFFFFF</color>
-
-    <!-- Additional Colors -->
-    <color name="purple_500">#6200EE</color>
-    <color name="purple_700">#3700B3</color>
-    <color name="teal_200">#03DAC5</color>
-    <color name="black">#000000</color>
-    <color name="white">#FFFFFF</color>
+    <!-- Common colors -->
+    <color name="nav_color_selected">#FF007A</color>
+    <color name="nav_color_unselected">#757575</color>
 </resources>
