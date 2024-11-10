@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PodCats App"
+rootProject.name = "PodCatsv2"
 include(":app")

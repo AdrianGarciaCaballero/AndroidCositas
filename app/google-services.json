@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "35926656408",
+    "firebase_url": "https://awst-9f2ee-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "awst-9f2ee",
+    "storage_bucket": "awst-9f2ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35926656408:android:7254284e4c8be47b57d7ed",
+        "android_client_info": {
+          "package_name": "com.example.podcatsv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS6TuBclOK0TOhn0uzvJmTRF5nlqcOYEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
