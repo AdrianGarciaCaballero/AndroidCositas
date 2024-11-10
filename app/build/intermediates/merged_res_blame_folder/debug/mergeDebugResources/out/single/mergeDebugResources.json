@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.example.podcatsapp-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.podcatsapp-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\drawable_right_arrow.png.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\drawable\\right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\drawable_cat3.jpg.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\drawable\\cat3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\drawable_cat1.jpg.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\drawable\\cat1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\drawable_back_arrow.png.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\drawable\\back_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\layout_activity_player.xml.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\drawable_cat4.jpg.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\drawable\\cat4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\drawable_vini.png.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\drawable\\vini.png"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\drawable_cat2.jpg.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\drawable\\cat2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\color_bottom_nav_colors.xml.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\color\\bottom_nav_colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\layout_item_pub.xml.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\layout\\item_pub.xml"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\drawable_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\drawable\\baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\layout_activity_upload.xml.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\adrim\\.gradle\\daemon\\8.7\\com.example.podcatsapp-main-33:\\drawable\\ic_launcher_background.xml"
+    }
+]
