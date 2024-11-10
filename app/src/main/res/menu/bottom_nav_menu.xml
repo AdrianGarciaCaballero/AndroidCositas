@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_feed"
+        android:icon="@drawable/ic_feed"
+        android:title="@string/feed" />
+    <item
+        android:id="@+id/nav_video"
+        android:icon="@drawable/ic_upload"
+        android:title="@string/btn_videos" />
+
+    <item
+        android:id="@+id/nav_audio"
+        android:icon="@drawable/ic_audio"
+        android:title="@string/btn_audios" />
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/settings" />
+</menu>
