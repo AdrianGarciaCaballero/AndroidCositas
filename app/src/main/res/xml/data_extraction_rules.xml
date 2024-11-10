@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<data-extraction-rules>
-    <allow>
-        <!-- Configura las reglas de extracción de datos aquí -->
-    </allow>
-    <disallow>
-        <!-- Configura los datos a excluir aquí -->
-    </disallow>
-</data-extraction-rules>
